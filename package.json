@@ -1,0 +1,12 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "This is a simple web app that has no GUI and instead run in the command line using node.js.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
